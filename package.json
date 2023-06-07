@@ -1,5 +1,5 @@
 {
-  "name": "@newrelic/nr-openai-observability-node",
+  "name": "@newrelic/openai-observability",
   "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",
